@@ -1,0 +1,43 @@
+  [
+    {
+        "id":1,
+        "title": "Deluxe king Bed",
+        "description":"A well-equipped room with all the facilities needs for an elegant stay.",
+        "thumbNailurl":"/Images/card/1.jpg"
+
+
+},
+
+{
+    "id":2,
+    "title": "Deluxe Twin Bed",
+    "description":"Twin beds and has everything you need for a pleasant stay.",
+    "thumbNailurl":"Images/card/2.jpg"
+
+
+},
+
+{
+    "id":3,
+    "title": "Executive king Bed",
+    "description":"Executive Floor commands the best view of the Kathmandu valley.",
+    "thumbNailurl":"/Images/card/3.jpg"
+
+
+},
+
+{
+    "id":4,
+    "title": "Juniour Suite",
+    "description":"spacious room, boast of plush beds with sufficient working space.",
+    "thumbNailurl":"/Images/card/4.jpg"
+
+
+}
+
+
+
+]
+
+
+
